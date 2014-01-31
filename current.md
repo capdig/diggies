@@ -5,7 +5,7 @@
 	Larry Phenow
 
 ### Teapot of Fame ###
-	Jesse Donat
+	Jesse Donat ... for finding a way to use composer to install the book player.
 
 ### Statue of Harassment ###
 
