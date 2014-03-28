@@ -14,7 +14,7 @@
 	**currently available**
 
 ### Medallion of Greed ###
-	Jesse Donat
+	Ray Minge ... for stealing a chip from Ian's lunch.
 
 ### Yellow Star of Condescension ###
 	Rubabah Shaikh
