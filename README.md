@@ -8,7 +8,7 @@
 	Larry Phenow
 
 ### Teapot of Fame ###
-	Jesse Donat ... for finding a way to use composer to install the book player.
+	David Murro -- for left joining books_to_book_collections -- PR38 -- commit 9ee889de771
 
 ### Statue of Harassment ###
 	**currently available**
