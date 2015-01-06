@@ -8,7 +8,7 @@
 	Larry Phenow
 
 ### Teapot of Fame ###
-	David Murro -- for left joining books_to_book_collections -- PR38 -- commit 9ee889de771
+	Ray Minge -- discovering a dark corner in the PDO wrapper involving mixing PDO params and unescaped SQL values -- capdig/capstone (src/PDO/MySQL/Query.php:186)
 
 ### Statue of Harassment ###
 	Molly Dise
