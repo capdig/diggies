@@ -5,7 +5,7 @@
 	Jesse Donat
 
 ### Chalice of Honor ###
-	Larry Phenow
+	Ray Minge -- for building the BA book review audit tools long ago. #340
 
 ### Teapot of Fame ###
 	Ray Minge -- discovering a dark corner in the PDO wrapper involving mixing PDO params and unescaped SQL values -- capdig/capstone (src/PDO/MySQL/Query.php:186)
