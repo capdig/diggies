@@ -11,7 +11,7 @@
 	Ray Minge -- discovering a dark corner in the PDO wrapper involving mixing PDO params and unescaped SQL values -- capdig/capstone (src/PDO/MySQL/Query.php:186)
 
 ### Throne of Lies ###
-	Ian Hickey, for lying to Ray
+	Matt Petersen -- for lying about using only 4 spaces for a tab when, in fact, he was using 8
 
 ### Statue of Harassment ###
 	Molly Dise
