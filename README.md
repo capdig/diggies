@@ -15,9 +15,3 @@
 
 ### Statue of Harassment ###
 	Molly Dise
-
-### Medallion of Greed ###
-	Ray Minge -- for stealing a chip from Ian's lunch.
-
-### Yellow Star of Condescension ###
-	Rubabah Shaikh
