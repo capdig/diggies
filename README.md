@@ -11,7 +11,7 @@
 	Ray Minge - Houston ISD successfully refreshed via Enroll.
 
 ### Throne of Lies ###
-	Matt Petersen -- for lying about using only 4 spaces for a tab when, in fact, he was using 8
+	Ian Hickey & David Murro -- for lying about whether the standup bell had been rung on 13 Nov 2015
 
 ### Statue of Harassment ###
 	Molly Dise
