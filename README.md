@@ -5,7 +5,7 @@
 	Jesse Donat
 
 ### Chalice of Honor ###
-	Ray Minge -- for building the BA book review audit tools long ago. #340
+	Andy Borne for >=365 days without a High or Critical Wiz issue.
 
 ### Teapot of Fame ###
 	Ray Minge - Houston ISD successfully refreshed via Enroll.
