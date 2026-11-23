@@ -2,7 +2,7 @@
 -----
 
 ### Pig of Shennanigans ###
-	Jesse Donat
+	Jesse Donat; renewed on this the 23rd day of November in the year of our Lord 2026 for designing a getter than also deletes.
 
 ### Chalice of Honor ###
 	Andy Borne for >=365 days without a High or Critical Wiz issue.
