@@ -2,7 +2,7 @@
 -----
 
 ### Pig of Shennanigans ###
-	Jesse Donat
+	Jon Henderson; on this the 23rd day of November in the year of our Lord 2026 for designing a getter than also deletes. He contends that it was Jesse's suggested implementation.
 
 ### Chalice of Honor ###
 	Andy Borne for >=365 days without a High or Critical Wiz issue.
